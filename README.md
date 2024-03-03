@@ -18,8 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/adityajaiswal7](https://www.linkedin.com/in/siva-surya-durga-ram-chitra-9706501b4/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Siva Surya" height="30" width="40" /></a>
-<a href="[https://instagram.com/devopsshack](https://www.instagram.com/mr_sunshine_008?igsh=anAwNDBpa21nbWg2)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_sunshine_008" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/siva-surya-durga-ram-chitra-9706501b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Siva Surya" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mr_sunshine_008?igsh=anAwNDBpa21nbWg2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_sunshine_008" height="30" width="40" /></a>
   
 </p>
 
